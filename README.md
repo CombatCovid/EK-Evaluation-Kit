@@ -12,7 +12,7 @@ project-link: https://www.sensirion.com/en/flow-sensors/mass-flow-meters-for-hig
 made: true
 made-independently: false
 license:
-  hardware: Put the license
+  hardware: undefined
 okh-manifest-version: 1.0.0
 date-updated: yyyy-mm-dd
 manifest-author:
@@ -27,4 +27,5 @@ sub-parts:
   - Features
   - Applications
   - Customized SOlutions
-  -Data Sheets
+  - Data Sheets
+---
