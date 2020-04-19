@@ -19,7 +19,6 @@ languages:
     
     # Replace the keywords here to whatever is relevant to your context
     # If you are using a mask then some will probably change
-    keywords: [patient,recovery,critical care,intensive care,icu,equipment,
-               emergency room,helper,treatment,hospital,operating room]
+    keywords: [autoclavable, washable, mass flow, medical equipment, covid-19]
 
 # end of app metadata
